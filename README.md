@@ -26,7 +26,5 @@ to try the code use the command
 python bitcoin_header_example_python2.py
 ```
 Output: `00000000000000001e8d6829a8a21adc5d38d0a473b144b6765798e61f98bd1d`
-
-
-
-you can try to chance  
+ 
+Try to change the value `42a14695` to another value until you find any one that satisfies the condition that solves the block. Essentially, that's what mining is all about.
